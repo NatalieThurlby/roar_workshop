@@ -1,0 +1,18 @@
+---
+title: "paper"
+author: "Natalie Thurlby"
+date: "2/24/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Introduction
+
+Hi I've made a change here.
+
+## Methods
+
+Very detailed methods.
